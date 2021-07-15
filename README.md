@@ -1,2 +1,2 @@
 # trabalhophp
-Este trabalho consiste num gerenciador de jogadores de League of Legends.
+Este trabalho consiste num gerenciador de notícias.
